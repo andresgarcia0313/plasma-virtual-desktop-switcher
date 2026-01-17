@@ -23,6 +23,8 @@ A KDE Plasma 5 widget that displays the current virtual desktop name and provide
 
 ## Screenshots
 
+![Virtual Desktop Switcher Widget](screenshots/widget-preview.png)
+
 The widget shows a grid of desktop previews with:
 - Window outlines in real positions
 - Application icons inside windows
