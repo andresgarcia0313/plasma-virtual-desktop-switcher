@@ -26,10 +26,9 @@ Kirigami.FormLayout {
     SpinBox {
         id: previewSize
         Kirigami.FormData.label: i18n("Preview Size:")
-        from: 40
-        to: 150
+        from: 80
+        to: 200
         stepSize: 10
-        enabled: showWindowPreviews.checked
 
         textFromValue: function(value) {
             return value + " px"
