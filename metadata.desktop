@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Virtual Desktop Switcher
+Comment=Shows current virtual desktop and allows switching with window previews
+Icon=preferences-desktop-virtual
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-ConfigPlugins=org.kde.virtualdesktopswitcher
+X-KDE-PluginInfo-Name=org.kde.virtualdesktopswitcher
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Author=Andres Garcia
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-KDE-FormFactors=desktop,panel
